@@ -7,3 +7,5 @@ This repository contains the labs for the AZ-104 Microsoft Azure Administrator c
 ## Labs
 
 ### [Lab 1: Manage Azure Active Directory Identities](LAB1/Quizz.md)
+
+### [Lab 2: Manage Azure Subscriptions and Resources](LAB2/Quizz.md)
