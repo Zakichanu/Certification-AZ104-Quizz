@@ -1,5 +1,22 @@
 # LAB 3 of training course quizz
 
+## Table of Contents
+
+- [LAB 3 of training course quizz](#lab-3-of-training-course-quizz)
+  - [Table of Contents](#table-of-contents)
+  - [LAB 03A (CSS): Manage Azure resources by Using the Azure Portal](#lab-03a-css-manage-azure-resources-by-using-the-azure-portal)
+    - [Question 1](#question-1)
+    - [Question 2](#question-2)
+  - [Module 03B (CSR): Manage Azure resources by Using ARM Templates](#module-03b-csr-manage-azure-resources-by-using-arm-templates)
+  - [Module 03C (CSP): Manage Azure resources by Using PowerShell](#module-03c-csp-manage-azure-resources-by-using-powershell)
+    - [Question 1](#question-1-1)
+    - [Question 2](#question-2-1)
+  - [Module 03D (CSH): Manage Azure resources by Using the Azure CLI](#module-03d-csh-manage-azure-resources-by-using-the-azure-cli)
+    - [Question 1](#question-1-2)
+    - [Question 2](#question-2-2)
+    - [Question 3](#question-3)
+
+
 ## LAB 03A (CSS): Manage Azure resources by Using the Azure Portal
 
 ### Question 1
@@ -151,3 +168,5 @@ No questions for this module.
     Resource groups cannot be nested.
 
 </details>
+
+[Back to Top](#table-of-contents)

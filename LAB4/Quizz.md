@@ -1,5 +1,21 @@
 # LAB 4 of training course quizz
 
+## Table of Contents
+
+- [LAB 4 of training course quizz](#lab-4-of-training-course-quizz)
+  - [Table of Contents](#table-of-contents)
+  - [Module 04A (CSR): Implement Virtual Networking](#module-04a-csr-implement-virtual-networking)
+    - [Question 1](#question-1)
+    - [Question 2](#question-2)
+    - [Question 3](#question-3)
+    - [Question 4](#question-4)
+    - [Question 5](#question-5)
+    - [Question 6](#question-6)
+    - [Question 7](#question-7)
+    - [Question 8](#question-8)
+    - [Question 9](#question-9)
+
+
 ## Module 04A (CSR): Implement Virtual Networking
 
 ### Question 1
@@ -279,3 +295,5 @@ Select one:
     Application rules are used to allow or deny traffic based on the application layer. In this scenario, you need to allow Windows Update network traffic through the firewall. This is an application layer rule.
 
 </details>
+
+[Back to Top](#table-of-contents)

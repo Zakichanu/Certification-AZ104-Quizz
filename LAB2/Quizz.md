@@ -1,5 +1,14 @@
 # LAB 2 of training course quizz
 
+## Table of Contents
+
+- [LAB 2 of training course quizz](#lab-2-of-training-course-quizz)
+  - [Table of Contents](#table-of-contents)
+  - [Lab 02A (Manage Subscriptions and RBAC) \& Lab 02B (Manage Governance and Compliance) Review Questions](#lab-02a-manage-subscriptions-and-rbac--lab-02b-manage-governance-and-compliance-review-questions)
+    - [Question 1](#question-1)
+    - [Question 2](#question-2)
+    - [Question 3](#question-3)
+
 ## Lab 02A (Manage Subscriptions and RBAC) & Lab 02B (Manage Governance and Compliance) Review Questions
 
 ### Question 1
@@ -69,3 +78,5 @@ Select one:`
     recipients for each alert. Monthly budgets are evaluated against spending every four hours. Budgets reset automatically
     at the end of a period.
 </details>
+
+[Back to Top](#table-of-contents)

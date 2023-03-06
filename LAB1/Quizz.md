@@ -1,5 +1,15 @@
 # LAB 1 of training course quizz
 
+## Table of Contents
+
+- [LAB 1 of training course quizz](#lab-1-of-training-course-quizz)
+  - [Table of Contents](#table-of-contents)
+  - [Question 1](#question-1)
+  - [Question 2](#question-2)
+  - [Question 3](#question-3)
+  - [Question 4](#question-4)
+  - [Question 5](#question-5)
+
 ## Question 1
 
 `Your users want to sign-in to devices, apps, and services from anywhere. They want to sign-in using an organizational work or school account instead of a personal account. You must ensure corporate assets are protected and that devices meet standards for security and compliance. Specifically, you need to be able to enable or disable a device. What should you do?`
@@ -137,3 +147,5 @@ Select one:`
     able to assign other administrator roles.
 
 </details>
+
+[Back to Top](#table-of-contents)
