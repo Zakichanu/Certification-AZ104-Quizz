@@ -8,6 +8,10 @@
     - [Question 1](#question-1)
     - [Question 2](#question-2)
     - [Question 3](#question-3)
+  - [LAB 09B (CSS): Implement Containers](#lab-09b-css-implement-containers)
+    - [Question 1](#question-1-1)
+    - [Question 2](#question-2-1)
+    - [Question 3](#question-3-1)
 
 ## LAB 09A (CSR): Implement Web Apps
 
@@ -74,5 +78,74 @@ Select one`
     Standard. The Standard App Service Plan meets the requirements at the least cost.
 
 </details>
+
+## LAB 09B (CSS): Implement Containers
+
+### Question 1
+
+`You have a web app that uses a custom Docker image. You need to ensure that the app is always running. Which configuration should you use?`
+
+- App configuration
+- Azure database for MySQL
+- Files and database content totalling 15GB
+- Firewall enabled-storage account
+- SSL enabled Azure Database for MySQL
+
+<details>
+    <summary>Answer</summary>
+
+    - App configuration
+    - Azure database for MySQL
+
+    > Why?
+
+    App configuration and Azure database for MySQL. App Service can back up: app configuration, file content, and a database connected to your app (SQL Database, Azure Database for MySQL, Azure Database for PostgreSQL, MySQL in-app). Backups can be up to 10 GB of app and database content. Using a firewall enabled storage account as the destination for your backups is not supported. SSL enabled Azure Database for MySQL does not get backed up.
+
+</details>
+
+### Question 2
+
+`You decide to move all your services to Azure Kubernetes service. Which of the following components will contribute to your monthly Azure charge?
+Select one:`
+
+- Azure managed node
+- Pods
+- Customer node virtual machines
+- Tables
+
+<details>
+    <summary>Answer</summary>
+
+    - Customer node virtual machines
+
+    > Why?
+
+    Customer node virtual machines. You only pay for the virtual machines instances, storage, and networking resources consumed by your Kubernetes cluster.
+
+</details>
+
+### Question 3
+
+`Which of the following is not true about container groups?
+Select one:`
+
+- Is scheduled on a multiple host machines.
+- Is assigned a DNS name label.
+- Exposes a single public IP address, with one exposed port.
+- Consists of two containers.
+- Includes two Azure file shares as volume mounts.
+
+<details>
+    <summary>Answer</summary>
+
+    - Is scheduled on a multiple host machines.
+
+    > Why?
+
+    Is scheduled on a single host machine. A container group is a logical grouping of containers that are scheduled on a single host machine. A container group is assigned a DNS name label and exposes a single public IP address, with one exposed port. A container group consists of one or more containers, and includes one or more Azure file shares as volume mounts.
+
+</details>
+
+
 
 [Back to top](#table-of-contents)
