@@ -20,3 +20,5 @@ This repository contains the labs for the AZ-104 Microsoft Azure Administrator c
 
 ### [Lab 7: Manage Azure Storage](LAB7/Quizz.md)
 
+### [Lab 8: Manage Virtual Machines](LAB8/Quizz.md)
+
