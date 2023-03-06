@@ -73,3 +73,5 @@ Select one:`
 
     Install the Web Application Firewall. The web application firewall (WAF) is an optional component that handles incoming requests before they reach a listener. The web application firewall checks each request for many common threats, based on the Open Web Application Security Project (OWASP).
 </details>
+
+[Back to top](#table-of-contents)
