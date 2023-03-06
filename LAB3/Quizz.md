@@ -37,11 +37,11 @@
 <details>
     <summary>Answer</summary>
 
-    Requires an Azure file share.
+    Cloud Shell is assigned multiple machines per user account.
 
     > Why?
 
-    Cloud Shell does not require an Azure file share.
+    Cloud Shell is assigned multiple machines per user account, is not true. The cloud shell is assigned one machine per user account.
 
 </details>
 
