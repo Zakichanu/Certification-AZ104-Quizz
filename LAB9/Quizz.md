@@ -12,6 +12,10 @@
     - [Question 1](#question-1-1)
     - [Question 2](#question-2-1)
     - [Question 3](#question-3-1)
+  - [LAB 09C (CSS): Implement Azure Kubernetes Service](#lab-09c-css-implement-azure-kubernetes-service)
+    - [Question 1](#question-1-2)
+    - [Question 2](#question-2-2)
+    - [Question 3](#question-3-2)
 
 ## LAB 09A (CSR): Implement Web Apps
 
@@ -146,6 +150,69 @@ Select one:`
 
 </details>
 
+## LAB 09C (CSS): Implement Azure Kubernetes Service
 
+### Question 1
+
+`Which of the following is the Kubernetes agent that processes the orchestration requests and schedules running the requested containers?
+Select one:`
+
+- controller
+- container runtime
+- kube-proxy
+- kubelet
+
+<details>
+    <summary>Answer</summary>
+
+    - kubelet
+
+    > Why?
+
+    kubelet. The kubelet process the orchestration requests and schedules running the requested containers
+
+</details>
+
+### Question 2
+
+`You are configuring networking for the Azure Kubernetes service. Which of the following maps incoming direct traffic to the pods?
+Select one:`
+
+- AKS node
+- ClusterIP
+- Load Balancer
+- NodePort
+
+<details>
+    <summary>Answer</summary>
+
+    - NodePort
+
+    > Why?
+
+    NodePort. NodePort maps incoming direct traffic to the pods.
+
+</details>
+
+### Question 3
+
+`What method does Microsoft Azure App Service use to obtain credentials for users attempting to access an app?
+Select one:`
+
+- Credentials that are stored in the browser.
+- Pass-through authentication.
+- Redirection to a provider endpoint.
+- Synchronization of accounts across providers.
+
+<details>
+    <summary>Answer</summary>
+
+    - Redirection to a provider endpoint.
+
+    > Why?
+
+    Redirection to a provider endpoint. Microsoft Azure App Service apps redirect requests to an endpoint that signs in users for that provider. The App Service can automatically direct all unauthenticated users to the endpoint that signs in users. Course: Module 4
+
+</details>
 
 [Back to top](#table-of-contents)
